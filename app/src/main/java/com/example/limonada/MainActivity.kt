@@ -59,7 +59,7 @@ fun AppLimonada(){
             idImagem = R.drawable.espremer_limao
             idString = R.string.espremer_limao
             onClickImagem = {
-                if(qtdClick >1 && qtdClick <5)
+                if(qtdClick >1 && qtdClick <5 )
                     qtdClick--
                 else
                 tela = 3
